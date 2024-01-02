@@ -16,19 +16,19 @@ const data: DataType[] = [
   {
     key: '1',
     name: 'John Brown',
-    alamat: 'New York No. 1 Lake Park',
+    alamat: 'Bekasi',
     pesanan: 'makanan kucing'
   },
   {
     key: '2',
     name: 'Jim Green',
-    alamat: 'London No. 1 Lake Park',
+    alamat: 'Jakarta',
     pesanan: 'lemari baju'
   },
   {
     key: '3',
     name: 'Joe Black',
-    alamat: 'Sydney No. 1 Lake Park',
+    alamat: 'Tanggerang',
     pesanan: 'kue kering'
   },
 ];
